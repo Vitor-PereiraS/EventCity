@@ -69,7 +69,7 @@ public class Event {
 	}
 
 	public City getCity() {
-		return city;
+		return this.city;
 	}
 
 	public void setCity(City city) {
